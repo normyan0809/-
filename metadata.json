@@ -1,0 +1,5 @@
+{
+  "name": "Conveyor Physics Lab",
+  "description": "A physics simulation tool for analyzing conveyor belt and slider block dynamics, featuring real-time V-t graphs and motion visualization.",
+  "requestFramePermissions": []
+}
